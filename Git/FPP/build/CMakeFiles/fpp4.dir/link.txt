@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/fpp4.dir/main.cpp.o CMakeFiles/fpp4.dir/source/parser.cpp.o CMakeFiles/fpp4.dir/source/sl.cpp.o CMakeFiles/fpp4.dir/source/var.cpp.o CMakeFiles/fpp4.dir/source/variables.cpp.o  -o fpp4 -rdynamic 

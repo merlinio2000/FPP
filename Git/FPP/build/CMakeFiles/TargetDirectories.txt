@@ -1,0 +1,7 @@
+/home/kerlin/projects/fpp4/build/CMakeFiles/install.dir
+/home/kerlin/projects/fpp4/build/CMakeFiles/list_install_components.dir
+/home/kerlin/projects/fpp4/build/CMakeFiles/rebuild_cache.dir
+/home/kerlin/projects/fpp4/build/CMakeFiles/fpp4.dir
+/home/kerlin/projects/fpp4/build/CMakeFiles/install/strip.dir
+/home/kerlin/projects/fpp4/build/CMakeFiles/install/local.dir
+/home/kerlin/projects/fpp4/build/CMakeFiles/edit_cache.dir

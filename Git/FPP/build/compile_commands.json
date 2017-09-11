@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/kerlin/projects/fpp4/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/fpp4.dir/main.cpp.o -c /home/kerlin/projects/fpp4/main.cpp",
+  "file": "/home/kerlin/projects/fpp4/main.cpp"
+},
+{
+  "directory": "/home/kerlin/projects/fpp4/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/fpp4.dir/source/parser.cpp.o -c /home/kerlin/projects/fpp4/source/parser.cpp",
+  "file": "/home/kerlin/projects/fpp4/source/parser.cpp"
+},
+{
+  "directory": "/home/kerlin/projects/fpp4/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/fpp4.dir/source/sl.cpp.o -c /home/kerlin/projects/fpp4/source/sl.cpp",
+  "file": "/home/kerlin/projects/fpp4/source/sl.cpp"
+},
+{
+  "directory": "/home/kerlin/projects/fpp4/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/fpp4.dir/source/var.cpp.o -c /home/kerlin/projects/fpp4/source/var.cpp",
+  "file": "/home/kerlin/projects/fpp4/source/var.cpp"
+},
+{
+  "directory": "/home/kerlin/projects/fpp4/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/fpp4.dir/source/variables.cpp.o -c /home/kerlin/projects/fpp4/source/variables.cpp",
+  "file": "/home/kerlin/projects/fpp4/source/variables.cpp"
+}
+]
