@@ -15,17 +15,19 @@
 
 #include "../header/parser.hpp"
 
-void parser::parse() {
+void parser::parse() 
+{
 	std::string temp_param;//string for one param at a time
-	while (std::getline(inf, instr)) 
+	while (std::getline(inf, instr))//read every line from filestream inf into the string instr
         {
-                function = instr.substr(0, instr.find(' '));
-                #ifdef DEBUG_PARSER_FUNCTION
-                    std::cout << function + "\n";
+                //the part of instr from beginning till *space* is the function being executed
+		function = instr.substr(0, instr.find(' '));
+		#ifdef DEBUG_PARSER_FUNCTION
+                    std::cout << function + "\n";//output debugging information
                 #endif
-		params = instr.substr(function.size(), instr.size());
+		params = instr.substr(function.size(), instr.size());//the rest of instr is the parameters
 
-		for (size_t i = 0; i <= params.size(); ++i) 
+		for (size_t i = 0; i <= params.size(); ++i) //loop through each char in the parameters
                 {
 			if (params[i] == ' ' && isInQuotes == false) 
                         {
